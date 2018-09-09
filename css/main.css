@@ -4,15 +4,20 @@ body {
     width: 70%;
 }
 header {
+    font-family:'Calibri', 'Arial', 'Sans-Serif';
     padding: 1px;
     text-align: right;
     font-size: 1;
     margin-bottom: 0;
 }
+nav {
+  border-top: 1px solid #000000;
+}
 nav ul, footer ul {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
+
 }
 nav ul li, footer ul li {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
@@ -28,27 +33,29 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    font-weight: normal;
+    font-size: 1.4em;
     color: #000000;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    font-size: 1.5;
+    margin-bottom: 2px;
 }
 h2 {
+    font-size: 1.4em;
     color: #000000;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    font-size: 1.5;
+    font-weight: normal;
 }
 .blueText {
-  color: #000099;
+    color: #000099;
 }
 p {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    margin-top: 0;
-    line-height: 0.1em;
+    margin-top: 2px;
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #000000;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
     font-size: .8em;
 }
@@ -56,7 +63,7 @@ footer {
 ul.posts {
     margin: 20px auto 40px;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    font-size: 1em;
+    font-size: 1.1em;
 }
 
 ul.posts li {
