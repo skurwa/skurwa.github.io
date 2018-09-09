@@ -28,18 +28,14 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    margin-bottom: 0;
-    line-height:0.1em;
     color: #000000;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    font-size: 2;
+    font-size: 1.5;
 }
 h2 {
-    margin-bottom: 0;
-    line-height:0.1em;
     color: #000000;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    font-size: 2;
+    font-size: 1.5;
 }
 .blueText {
   color: #000099;
