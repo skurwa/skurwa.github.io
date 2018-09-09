@@ -11,7 +11,7 @@ header {
     margin-bottom: 0;
 }
 nav {
-  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
 }
 nav ul, footer ul {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
