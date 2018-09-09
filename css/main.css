@@ -12,6 +12,7 @@ header {
 }
 nav {
   border-bottom: 1px solid #000000;
+  padding-bottom: 5px;
 }
 nav ul, footer ul {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
@@ -29,6 +30,9 @@ a {
     text-decoration: none;
     color: #000099;
 }
+a.header:hover {
+  text-decoration: none;
+}
 a:hover {
     text-decoration: underline;
 }
@@ -40,10 +44,11 @@ h1 {
     margin-bottom: 2px;
 }
 h2 {
+    font-weight: normal;
     font-size: 1.4em;
     color: #000000;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    font-weight: normal;
+    margin-bottom: 2px;
 }
 .blueText {
     color: #000099;
@@ -56,6 +61,7 @@ p {
 }
 footer {
     border-top: 1px solid #000000;
+    padding-top: 5px;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
     font-size: .8em;
 }
