@@ -2,6 +2,7 @@ body {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
     margin: 60px auto;
     width: 70%;
+    background-color: white;
 }
 header {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
@@ -19,6 +20,7 @@ nav ul, footer ul {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
+    text-align: left;
 
 }
 nav ul li, footer ul li {
@@ -65,7 +67,7 @@ footer {
     border-top: 1px solid #000000;
     padding-top: 0;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    font-size: .8em;
+    font-size: .9em;
 }
 
 ul.posts {
@@ -87,6 +89,7 @@ ul.posts li {
 }
 
 #wrapper ul li {
+    list-style-type: none;
     padding: 5px;
     margin-bottom: 0px;
     display: table;
@@ -94,6 +97,7 @@ ul.posts li {
 }
 
 #wrapper ul li img {
+    list-style-type: none;
     margin-top:3px;
     float: left;
 }

@@ -1,5 +1,142 @@
 ---
 layout: default
-title: Personal Projects
+title: Portfolio
 ---
-	<h2>{{ page.title }}</h2>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    padding: 20px;
+}
+
+/* Center website */
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    word-break: break-all;
+}
+
+.row {
+    margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+    padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 25%;
+}
+
+/* Clear floats after rows */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Content */
+.content {
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+    .column {
+        width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+</style>
+</head>
+
+
+  <span style ="float:right">
+    <p><a href ="/docs/Project Portfolio - Siddharth Kurwa.pdf" target = "_blank">Download Portfolio</a></p>
+  </span>
+	<h2>Personal and Academic Projects</h2>
+	<div class="row">
+	  <div class="column">
+	    <div class="content">
+	      <a href = "/portfolio/veganeggscrambler">
+					<img src="img/VeganEggScrambler.png" alt="" style="width:100%">
+		      <p><span class ="blueText">VeganEgg Scrambler</span></p>
+				</a>
+				<p>Device to automatically scramble <em>vegan</em> eggs and monitor cooking.</p>
+	    </div>
+	  </div>
+	  <div class="column">
+	    <div class="content">
+				<a href = "/portfolio/camsketch">
+	      	<img src="img/CamSketch.png" alt="" style="width:100%">
+	      	<p><span class ="blueText">CamSketch</span></p>
+				</a>
+	      <p>Mechanism to sketch 2D images with only 1 degree of freedom.</p>
+	    </div>
+	  </div>
+	  <div class="column">
+	    <div class="content">
+				<a href = "/portfolio/walkingmechanism">
+		      <img src="img/Strandbeest.png" alt="" style="width:100%">
+		      <p><span class ="blueText">Walking Mechanism</span></p>
+				</a>
+	      <p>1 degree-of-freedom mechanism based on Theo Jansen's beach-walking Strandbeests.</p>
+	    </div>
+	  </div>
+		<div class="column">
+			<div class="content">
+				<a href = "/portfolio/quadcopter">
+					<img src="img/Quadcopter.jpg" alt="" style="width:100%">
+					<p><span class ="blueText">Quadcopter</span></p>
+				</a>
+				<p>Summer project to build a 4-rotor flying vehicle.</p>
+			</div>
+		</div>
+		<div class="column">
+			<div class="content">
+				<a href = "/portfolio/machineshopprojects">
+					<img src="img/MachineShopVise.jpg" alt="" style="width:100%">
+					<p><span class ="blueText">Machine Shop Projects</span></p>
+				</a>
+				<p>Collection of projects done in the UT machine shop.</p>
+			</div>
+		</div>
+		<div class="column">
+			<div class="content">
+				<a href = "/portfolio/solarcar">
+					<img src="img/SolarCar.png" alt="" style="width:100%">
+					<p><span class ="blueText">Solar Vehicles Team</span></p>
+				</a>
+				<p>Design and analysis work for UT's Solar Vehicles Team.</p>
+			</div>
+		</div>
+		<div class="column">
+			<div class="content">
+				<a href = "/portfolio/hydroponicgarden">
+					<img src="img/HydroponicGarden.png" alt="" style="width:100%">
+					<p><span class ="blueText">Hydroponic Garden</span></p>
+				</a>
+				<p>A tool to reduce garden maintenance and increase yield.</p>
+			</div>
+		</div>
