@@ -5,14 +5,15 @@ body {
 }
 header {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    padding: 1px;
+    padding: 0;
+    padding-bottom: 0;
     text-align: right;
-    font-size: 1;
     margin-bottom: 0;
 }
 nav {
   border-bottom: 1px solid #000000;
-  padding-bottom: 5px;
+  padding-top:2;
+  padding-bottom: 0;
 }
 nav ul, footer ul {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
@@ -54,14 +55,15 @@ h2 {
     color: #000099;
 }
 p {
-    font-size: 1.1em;
+    font-size: 1em;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    margin-top: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     color: #333;
 }
 footer {
     border-top: 1px solid #000000;
-    padding-top: 5px;
+    padding-top: 0;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
     font-size: .8em;
 }
@@ -74,4 +76,32 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-size:1.1em;
+}
+
+#wrapper ul {
+    padding: 0;
+    margin: auto;
+    width: 80%;
+    list-style-type: none;
+}
+
+#wrapper ul li {
+    padding: 5px;
+    margin-bottom: 0px;
+    display: table;
+    width: 100%;
+}
+
+#wrapper ul li img {
+    margin-top:3px;
+    float: left;
+}
+
+#wrapper ul li .details {
+  margin-bottom: 1px;
+  float: right;
+  width: 70%;
+  font-size:1em
+  font-family:'Calibri', 'Arial', 'Sans-Serif';
 }
