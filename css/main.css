@@ -3,14 +3,17 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-blueText {
-  color: #000099;
+header {
+    padding: 5px;
+    text-align: right;
+}
+header.blueText {
+    color: #000099;
 }
 nav ul, footer ul {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
 }
 nav ul li, footer ul li {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
@@ -28,16 +31,23 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    margin: 0;
+    margin-bottom: 0;
+    line-height:0.1em;
+    color: #000000;
 }
+h1.blueText {
+  color: #000099;
+}
+
 h2 {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
     font-size: 2;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-family:'Calibri', 'Arial', 'Sans-Serif';
-    line-height: 1;
+    margin-top: 0;
+    line-height: 0.1em;
     color: #333;
 }
 footer {
