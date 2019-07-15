@@ -1,78 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Control Systems on Siddharth Kurwa</title>
+    <title>control-systems on Siddharth Kurwa</title>
     <link>skurwa.github.io/tags/control-systems/</link>
-    <description>Recent content in Control Systems on Siddharth Kurwa</description>
+    <description>Recent content in control-systems on Siddharth Kurwa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 -0800</lastBuildDate>
     
 	    <atom:link href="skurwa.github.io/tags/control-systems/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Quadcopter</title>
-      <link>skurwa.github.io/project/quadcopter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Smart Cart</title>
+      <link>skurwa.github.io/project/smartcart/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/project/quadcopter/</guid>
-      <description>&lt;p&gt;hellooooo&lt;/p&gt;
-
-&lt;p&gt;here&amp;rsquo;s an image:
-
-
-
-  
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;skurwa.github.io/skurwa.github.io/img/icon.png&#34; &gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;A caption&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
+      <guid>skurwa.github.io/project/smartcart/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/Project%20Portfolio%20-%20Siddharth%20Kurwa.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Smart Cart</title>
-      <link>skurwa.github.io/project/smartcart/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Quadcopter</title>
+      <link>skurwa.github.io/project/quadcopter/</link>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/smartcart/</guid>
-      <description>&lt;p&gt;hellooooo&lt;/p&gt;
-
-&lt;p&gt;here&amp;rsquo;s an image:
-
-
-
-  
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;skurwa.github.io/skurwa.github.io/img/icon.png&#34; &gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;A caption&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
+      <guid>skurwa.github.io/project/quadcopter/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/Project%20Portfolio%20-%20Siddharth%20Kurwa.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     

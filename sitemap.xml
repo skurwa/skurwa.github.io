@@ -3,17 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>skurwa.github.io/authors/admin/</loc>
+    <loc>skurwa.github.io/project/jainmentorshipprogram/</loc>
+    <lastmod>2019-07-12T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/</loc>
+    <lastmod>2019-07-12T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/</loc>
+    <lastmod>2019-07-12T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/tags/</loc>
+    <lastmod>2019-07-12T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/tags/service/</loc>
+    <lastmod>2019-07-12T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/hosamedicalinnovation/</loc>
+    <lastmod>2019-02-23T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/smartcart/</loc>
+    <lastmod>2018-12-02T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>skurwa.github.io/tags/academic/</loc>
+    <lastmod>2018-12-02T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>skurwa.github.io/tags/arduino/</loc>
+    <lastmod>2018-12-02T00:00:00-08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/tags/control-systems/</loc>
+    <lastmod>2018-12-02T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/tags/mech-design/</loc>
+    <lastmod>2018-12-02T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/tags/mechatronics/</loc>
+    <lastmod>2018-12-02T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/menstrualpadfabdevice/</loc>
+    <lastmod>2018-12-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/balltossmachine/</loc>
+    <lastmod>2018-10-15T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/tags/prof/</loc>
+    <lastmod>2018-10-15T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/handpiececleaner/</loc>
+    <lastmod>2018-09-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/strandbeest/</loc>
+    <lastmod>2018-08-14T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/tags/personal/</loc>
+    <lastmod>2018-08-14T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/camsketch/</loc>
+    <lastmod>2018-05-07T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/veganeggscrambler/</loc>
+    <lastmod>2018-05-03T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/crewdragonoceanrecovery/</loc>
+    <lastmod>2017-12-14T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/quadcopter/</loc>
+    <lastmod>2017-07-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/hydroponicgarden/</loc>
+    <lastmod>2016-12-27T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/project/solarvehiclesteam/</loc>
+    <lastmod>2016-10-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>skurwa.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -22,62 +143,12 @@
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/toolheadcleaner/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/balltossmachine/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/camsketch/</loc>
-  </url>
-  
-  <url>
     <loc>skurwa.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/tags/control-systems/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/hydroponicgarden/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/menstrualpadfabdevice/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/tags/mechanical-design/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/tags/mechatronics/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/tags/personal/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>skurwa.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/tags/professional/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -90,41 +161,7 @@
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/quadcopter/</loc>
-  </url>
-  
-  <url>
     <loc>skurwa.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/smartcart/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/solarvehiclesteam/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/crewdragonoceanrecovery/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/veganeggscrambler/</loc>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/project/strandbeest/</loc>
   </url>
   
 </urlset>
