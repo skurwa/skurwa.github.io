@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Siddharth Kurwa</title>
-    <link>skurwa.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Siddharth Kurwa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2019 00:00:00 -0700</lastBuildDate>
     
-	    <atom:link href="skurwa.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jain Mentorship Program</title>
-      <link>skurwa.github.io/project/jainmentorshipprogram/</link>
+      <link>/project/jainmentorshipprogram/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/jainmentorshipprogram/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/jainmentorshipprogram/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>HOSA Original Medical Innovation</title>
-      <link>skurwa.github.io/project/hosamedicalinnovation/</link>
+      <link>/project/hosamedicalinnovation/</link>
       <pubDate>Sat, 23 Feb 2019 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/project/hosamedicalinnovation/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/hosamedicalinnovation/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Smart Cart</title>
-      <link>skurwa.github.io/project/smartcart/</link>
+      <link>/project/smartcart/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/project/smartcart/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/smartcart/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Low-Cost Menstrual Pad Fabrication</title>
-      <link>skurwa.github.io/project/menstrualpadfabdevice/</link>
+      <link>/project/menstrualpadfabdevice/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/project/menstrualpadfabdevice/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/menstrualpadfabdevice/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pitching Machine</title>
-      <link>skurwa.github.io/project/pitchingmachine/</link>
+      <link>/project/pitchingmachine/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/pitchingmachine/</guid>
+      <guid>/project/pitchingmachine/</guid>
       <description>&lt;p&gt;With a team of 2 other engineers, I helped develop a pitching machine for a M3 Design client. We began with an &lt;a href=&#34;http://www.athlonic.com/products/wheelerdealer&#34; target=&#34;_blank&#34;&gt;off-the-shelf product&lt;/a&gt; as the foundation and added or modified features until we developed all the functionality required.&lt;/p&gt;
 
 &lt;p&gt;While my co-worker designed and fabricated a 2 degree-of-freedom (DOF) mechanism to enable a controllable pitching window, I focused on developing pitching control. For this, I started by characterizing the existing pitching machine which used a linear solenoid (a device that creates a magnetic field to exert a linear force on a plunger) to pitch the ball.&lt;/p&gt;
@@ -131,84 +131,84 @@
     
     <item>
       <title>Automated Surgical Handpiece Cleaner</title>
-      <link>skurwa.github.io/project/handpiececleaner/</link>
+      <link>/project/handpiececleaner/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/handpiececleaner/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/handpiececleaner/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Walking Mechanism</title>
-      <link>skurwa.github.io/project/strandbeest/</link>
+      <link>/project/strandbeest/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/strandbeest/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/strandbeest/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CamSketch</title>
-      <link>skurwa.github.io/project/camsketch/</link>
+      <link>/project/camsketch/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/camsketch/</guid>
+      <guid>/project/camsketch/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://wikis.utexas.edu/display/RMD/CamSketch&#34; target=&#34;_blank&#34;&gt;Project Documentation&lt;/a&gt;
 &lt;a href=&#34;https://github.com/skurwa/sketching-mechanism&#34; target=&#34;_blank&#34;&gt;Github Repository&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>VeganEgg Scrambler</title>
-      <link>skurwa.github.io/project/veganeggscrambler/</link>
+      <link>/project/veganeggscrambler/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/veganeggscrambler/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/veganeggscrambler/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SpaceX Crew Dragon Ocean Recovery</title>
-      <link>skurwa.github.io/project/crewdragonoceanrecovery/</link>
+      <link>/project/crewdragonoceanrecovery/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/project/crewdragonoceanrecovery/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/crewdragonoceanrecovery/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quadcopter</title>
-      <link>skurwa.github.io/project/quadcopter/</link>
+      <link>/project/quadcopter/</link>
       <pubDate>Sun, 30 Jul 2017 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/quadcopter/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/quadcopter/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hydroponic Garden</title>
-      <link>skurwa.github.io/project/hydroponicgarden/</link>
+      <link>/project/hydroponicgarden/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/project/hydroponicgarden/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/hydroponicgarden/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Solar Vehicles Team</title>
-      <link>skurwa.github.io/project/solarvehiclesteam/</link>
+      <link>/project/solarvehiclesteam/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/solarvehiclesteam/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/solarvehiclesteam/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     

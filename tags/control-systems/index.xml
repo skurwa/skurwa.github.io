@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>control-systems on Siddharth Kurwa</title>
-    <link>skurwa.github.io/tags/control-systems/</link>
+    <link>/tags/control-systems/</link>
     <description>Recent content in control-systems on Siddharth Kurwa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Dec 2018 00:00:00 -0800</lastBuildDate>
     
-	    <atom:link href="skurwa.github.io/tags/control-systems/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/control-systems/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smart Cart</title>
-      <link>skurwa.github.io/project/smartcart/</link>
+      <link>/project/smartcart/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/project/smartcart/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/smartcart/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quadcopter</title>
-      <link>skurwa.github.io/project/quadcopter/</link>
+      <link>/project/quadcopter/</link>
       <pubDate>Sun, 30 Jul 2017 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/quadcopter/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/quadcopter/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     

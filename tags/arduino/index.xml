@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arduino on Siddharth Kurwa</title>
-    <link>skurwa.github.io/tags/arduino/</link>
+    <link>/tags/arduino/</link>
     <description>Recent content in arduino on Siddharth Kurwa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Dec 2018 00:00:00 -0800</lastBuildDate>
     
-	    <atom:link href="skurwa.github.io/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smart Cart</title>
-      <link>skurwa.github.io/project/smartcart/</link>
+      <link>/project/smartcart/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/project/smartcart/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/smartcart/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pitching Machine</title>
-      <link>skurwa.github.io/project/pitchingmachine/</link>
+      <link>/project/pitchingmachine/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/pitchingmachine/</guid>
+      <guid>/project/pitchingmachine/</guid>
       <description>&lt;p&gt;With a team of 2 other engineers, I helped develop a pitching machine for a M3 Design client. We began with an &lt;a href=&#34;http://www.athlonic.com/products/wheelerdealer&#34; target=&#34;_blank&#34;&gt;off-the-shelf product&lt;/a&gt; as the foundation and added or modified features until we developed all the functionality required.&lt;/p&gt;
 
 &lt;p&gt;While my co-worker designed and fabricated a 2 degree-of-freedom (DOF) mechanism to enable a controllable pitching window, I focused on developing pitching control. For this, I started by characterizing the existing pitching machine which used a linear solenoid (a device that creates a magnetic field to exert a linear force on a plunger) to pitch the ball.&lt;/p&gt;
@@ -101,44 +101,44 @@
     
     <item>
       <title>Automated Surgical Handpiece Cleaner</title>
-      <link>skurwa.github.io/project/handpiececleaner/</link>
+      <link>/project/handpiececleaner/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/handpiececleaner/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/handpiececleaner/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CamSketch</title>
-      <link>skurwa.github.io/project/camsketch/</link>
+      <link>/project/camsketch/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/camsketch/</guid>
+      <guid>/project/camsketch/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://wikis.utexas.edu/display/RMD/CamSketch&#34; target=&#34;_blank&#34;&gt;Project Documentation&lt;/a&gt;
 &lt;a href=&#34;https://github.com/skurwa/sketching-mechanism&#34; target=&#34;_blank&#34;&gt;Github Repository&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>VeganEgg Scrambler</title>
-      <link>skurwa.github.io/project/veganeggscrambler/</link>
+      <link>/project/veganeggscrambler/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/veganeggscrambler/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/veganeggscrambler/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quadcopter</title>
-      <link>skurwa.github.io/project/quadcopter/</link>
+      <link>/project/quadcopter/</link>
       <pubDate>Sun, 30 Jul 2017 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/quadcopter/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>/project/quadcopter/</guid>
+      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
 </description>
     </item>
     

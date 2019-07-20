@@ -3,165 +3,165 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>skurwa.github.io/project/jainmentorshipprogram/</loc>
+    <loc>/project/jainmentorshipprogram/</loc>
     <lastmod>2019-07-12T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/</loc>
-    <lastmod>2019-07-12T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/</loc>
+    <loc>/project/</loc>
     <lastmod>2019-07-12T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/tags/</loc>
+    <loc>/</loc>
     <lastmod>2019-07-12T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/tags/service/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-07-12T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/hosamedicalinnovation/</loc>
+    <loc>/tags/service/</loc>
+    <lastmod>2019-07-12T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/hosamedicalinnovation/</loc>
     <lastmod>2019-02-23T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/smartcart/</loc>
+    <loc>/project/smartcart/</loc>
     <lastmod>2018-12-02T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/tags/academic/</loc>
-    <lastmod>2018-12-02T00:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>skurwa.github.io/tags/arduino/</loc>
+    <loc>/tags/academic/</loc>
     <lastmod>2018-12-02T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/tags/control-systems/</loc>
+    <loc>/tags/arduino/</loc>
     <lastmod>2018-12-02T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/tags/mech-design/</loc>
+    <loc>/tags/control-systems/</loc>
     <lastmod>2018-12-02T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/tags/mechatronics/</loc>
+    <loc>/tags/mech-design/</loc>
     <lastmod>2018-12-02T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/menstrualpadfabdevice/</loc>
+    <loc>/tags/mechatronics/</loc>
+    <lastmod>2018-12-02T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/menstrualpadfabdevice/</loc>
     <lastmod>2018-12-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/pitchingmachine/</loc>
+    <loc>/project/pitchingmachine/</loc>
     <lastmod>2018-10-15T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/tags/prof/</loc>
+    <loc>/tags/prof/</loc>
     <lastmod>2018-10-15T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/handpiececleaner/</loc>
+    <loc>/project/handpiececleaner/</loc>
     <lastmod>2018-09-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/strandbeest/</loc>
+    <loc>/project/strandbeest/</loc>
     <lastmod>2018-08-14T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/tags/personal/</loc>
+    <loc>/tags/personal/</loc>
     <lastmod>2018-08-14T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/camsketch/</loc>
+    <loc>/project/camsketch/</loc>
     <lastmod>2018-05-07T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/veganeggscrambler/</loc>
+    <loc>/project/veganeggscrambler/</loc>
     <lastmod>2018-05-03T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/crewdragonoceanrecovery/</loc>
+    <loc>/project/crewdragonoceanrecovery/</loc>
     <lastmod>2017-12-14T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/quadcopter/</loc>
+    <loc>/project/quadcopter/</loc>
     <lastmod>2017-07-30T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/hydroponicgarden/</loc>
+    <loc>/project/hydroponicgarden/</loc>
     <lastmod>2016-12-27T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/project/solarvehiclesteam/</loc>
+    <loc>/project/solarvehiclesteam/</loc>
     <lastmod>2016-10-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>skurwa.github.io/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>skurwa.github.io/authors/</loc>
+    <loc>/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>skurwa.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>skurwa.github.io/publication/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>skurwa.github.io/talk/</loc>
+    <loc>/talk/</loc>
   </url>
   
 </urlset>

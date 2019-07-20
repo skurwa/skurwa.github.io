@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Siddharth Kurwa</title>
-    <link>skurwa.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Siddharth Kurwa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2019 00:00:00 -0700</lastBuildDate>
     
-	    <atom:link href="skurwa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>service</title>
-      <link>skurwa.github.io/tags/service/</link>
+      <link>/tags/service/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/tags/service/</guid>
+      <guid>/tags/service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>academic</title>
-      <link>skurwa.github.io/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arduino</title>
-      <link>skurwa.github.io/tags/arduino/</link>
+      <link>/tags/arduino/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/tags/arduino/</guid>
+      <guid>/tags/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>control-systems</title>
-      <link>skurwa.github.io/tags/control-systems/</link>
+      <link>/tags/control-systems/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/tags/control-systems/</guid>
+      <guid>/tags/control-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mech-design</title>
-      <link>skurwa.github.io/tags/mech-design/</link>
+      <link>/tags/mech-design/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/tags/mech-design/</guid>
+      <guid>/tags/mech-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mechatronics</title>
-      <link>skurwa.github.io/tags/mechatronics/</link>
+      <link>/tags/mechatronics/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>skurwa.github.io/tags/mechatronics/</guid>
+      <guid>/tags/mechatronics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prof</title>
-      <link>skurwa.github.io/tags/prof/</link>
+      <link>/tags/prof/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/tags/prof/</guid>
+      <guid>/tags/prof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>skurwa.github.io/tags/personal/</link>
+      <link>/tags/personal/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/tags/personal/</guid>
+      <guid>/tags/personal/</guid>
       <description></description>
     </item>
     
