@@ -52,12 +52,80 @@
     </item>
     
     <item>
-      <title>Ball-Toss Machine</title>
-      <link>skurwa.github.io/project/balltossmachine/</link>
+      <title>Pitching Machine</title>
+      <link>skurwa.github.io/project/pitchingmachine/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
       
-      <guid>skurwa.github.io/project/balltossmachine/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;skurwa.github.io/skurwa.github.io/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <guid>skurwa.github.io/project/pitchingmachine/</guid>
+      <description>&lt;p&gt;With a team of 2 other engineers, I helped develop a pitching machine for a M3 Design client. We began with an &lt;a href=&#34;http://www.athlonic.com/products/wheelerdealer&#34; target=&#34;_blank&#34;&gt;off-the-shelf product&lt;/a&gt; as the foundation and added or modified features until we developed all the functionality required.&lt;/p&gt;
+
+&lt;p&gt;While my co-worker designed and fabricated a 2 degree-of-freedom (DOF) mechanism to enable a controllable pitching window, I focused on developing pitching control. For this, I started by characterizing the existing pitching machine which used a linear solenoid (a device that creates a magnetic field to exert a linear force on a plunger) to pitch the ball.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;linearSolenoid.gif&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Linear Solenoid&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Charcterization involved using an oscilloscope to determining transient operating voltage, peak current, output current decay as battery life wore down, and pulse-width-modulation (PWM) for variable force setting. Upon characterizing, I learned a bit about our electrical/control design - first, the peak amperage draw of the solenoid exceeded 100 amps (albeit for a very short time) and second, it became clear that the SLA battery power supply would be an issue. With continued use, power output from the SLA batteries decayed substantially and deteriorated the pitching window&amp;rsquo;s consistency. Therefore, I decided to try using a battery charging circuit to continually &amp;lsquo;top off&amp;rsquo; the batteries with charge when not in use. However, this was harder than I anticipated. Lead acid batteries (as used in the device), follow a particular charging cycle shown on the below plot.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;SLACharging.jpg&#34; &gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;To maximize battery life, we could only perform Stage 2 or Stage 3 charge cycles. However, these stages did not provide sufficient current in the allotted charge time to replenish the charge consumed during discharge time (firing the solenoid). Further, lead-acid batteries do not have long charge/discharge life cylces and begin to degrade within 200-300 discharge cycles according to &lt;a href=&#34;https://batteryuniversity.com/learn/archive/can_the_lead_acid_battery_compete_in_modern_times&#34; target=&#34;_blank&#34;&gt;Battery University&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Therefore, I went back to the drawing board and considered an alternative - capacitors. Capacitors, by nature, are designed to handle repeated charge/discharge cycles with minimal wear and are capable of handling more current being pumped in during the charge state than chemical batteries. Due to their charge/discharge robustness], we began exploring using capacitors to provide the instantaneous peak current draw above 100A and sustain the lifespan of the device.&lt;/p&gt;
+
+&lt;p&gt;After sizing, ordering, and integrating the capacitors that we&amp;rsquo;d need, it certainly looked ridiculous&amp;hellip;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;capBank.jpg&#34; &gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&amp;hellip;but it worked! Using MOSFETs to switch on/off capacitor charging and discharging (and frying some in the process) and an Arduino to provide the control signal, we were able to sustain a consistent pitching window and install a successful product.&lt;/p&gt;
+
+&lt;p&gt;Final prototype installed and featured in local news:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/LoG-AqtZELk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
