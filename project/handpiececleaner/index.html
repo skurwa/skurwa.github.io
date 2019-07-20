@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Prototype medical device to clean and lubricate surgical handpieces.">
+  <meta name="description" content="Prototype medical device to clean and lubricate medical handpieces.">
 
   
   <link rel="alternate" hreflang="en-us" href="/project/handpiececleaner/">
@@ -122,8 +122,8 @@
   
   <meta property="og:site_name" content="Siddharth Kurwa">
   <meta property="og:url" content="/project/handpiececleaner/">
-  <meta property="og:title" content="Automated Surgical Handpiece Cleaner | Siddharth Kurwa">
-  <meta property="og:description" content="Prototype medical device to clean and lubricate surgical handpieces."><meta property="og:image" content="/project/handpiececleaner/featured.jpg">
+  <meta property="og:title" content="Automated Medical Handpiece Cleaner | Siddharth Kurwa">
+  <meta property="og:description" content="Prototype medical device to clean and lubricate medical handpieces."><meta property="og:image" content="/project/handpiececleaner/featured.jpg">
   <meta property="twitter:image" content="/project/handpiececleaner/featured.jpg"><meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-09-01T00:00:00-07:00">
@@ -140,7 +140,7 @@
 
 
 
-  <title>Automated Surgical Handpiece Cleaner | Siddharth Kurwa</title>
+  <title>Automated Medical Handpiece Cleaner | Siddharth Kurwa</title>
 
 </head>
 
@@ -384,7 +384,7 @@
 
 
 <div class="article-container pt-3">
-  <h1 itemprop="name">Automated Surgical Handpiece Cleaner</h1>
+  <h1 itemprop="name">Automated Medical Handpiece Cleaner</h1>
 
   
 
@@ -433,7 +433,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Automated%20Surgical%20Handpiece%20Cleaner&amp;body=/project/handpiececleaner/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Automated%20Medical%20Handpiece%20Cleaner&amp;body=skurwa.github.io/project/handpiececleaner/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -446,7 +446,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/project/handpiececleaner/&amp;title=Automated%20Surgical%20Handpiece%20Cleaner" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=skurwa.github.io/project/handpiececleaner/&amp;title=Automated%20Medical%20Handpiece%20Cleaner" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -459,7 +459,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Automated%20Surgical%20Handpiece%20Cleaner%20/project/handpiececleaner/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Automated%20Medical%20Handpiece%20Cleaner%20skurwa.github.io/project/handpiececleaner/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -472,7 +472,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/project/handpiececleaner/&amp;text=Automated%20Surgical%20Handpiece%20Cleaner" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=skurwa.github.io/project/handpiececleaner/&amp;text=Automated%20Medical%20Handpiece%20Cleaner" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -485,7 +485,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/project/handpiececleaner/&amp;t=Automated%20Surgical%20Handpiece%20Cleaner" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=skurwa.github.io/project/handpiececleaner/&amp;t=Automated%20Medical%20Handpiece%20Cleaner" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -528,7 +528,137 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>This page is still in development - please see my <a href="/files/SiddharthKurwa_Portfolio.pdf">portfolio</a> in the meantime. Stay tuned for updates soon!</p>
+      <p>While an intern at M3 Design, I had the unique opportunity of owning the full development of a prototype medical device&rsquo;s control system. The product is intended to clean and lubricate the internals of a client&rsquo;s medical handpieces, improving tool life and sustained quality.</p>
+
+
+
+
+
+
+
+<figure>
+
+<img src="handpiece.png" >
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Medical Handpieces</h4>
+  
+</figcaption>
+
+</figure>
+
+
+<p>To begin, I started by laying out the state machine architecture with a simple breadboarded mock-up using LEDs, switches, pushbuttons, and a display.</p>
+
+
+
+
+
+
+
+<figure>
+
+<img src="mockUp.png" >
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Initial Mock-Up</h4>
+  
+</figcaption>
+
+</figure>
+
+
+<p>With the basic states laid out and control developed, I began integrating physical components - motors, pumps, and sensors. With these physical components, processes within each state could be defined, forming a hierarchical state machine and functional physical form.</p>
+
+
+
+
+
+
+
+<figure>
+
+<img src="functional.png" >
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Functional Prototype</h4>
+  
+</figcaption>
+
+</figure>
+
+
+<p>Physical components also added another layer of complexity with debounce, power supply, overload, and motor control issues. Troubleshooting each one-by-one took time to get right, but it was an excellent way to understand the challenges in transitioning a theoretical idea or mock-up into a physical, useful device. With the physical system, we also worked on tuning the mechanical function of the device. With the mechanical design engineer, I worked to ensure that the pumps were providing the desired fluid pressure head, flowrate, and cycle duration and iteratively tuned the open-loop saturation and gain with sense resistors on the motor driver and control parameters (PWM settings).</p>
+
+
+
+
+
+
+
+<figure>
+
+<img src="openLoopControl.png" >
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Open-Loop Control</h4>
+  
+</figcaption>
+
+</figure>
+
+
+<p>With the mechanical and control functions solved, user interface and experience took center-stage. Working with the team&rsquo;s industrial designer, we determined workflows the user might follow, edge cases, and information to communicate to the user at each stage (alarm notifications and status/state indicators).</p>
+
+
+
+
+
+
+
+<figure>
+
+<img src="userWorkflow.png" >
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Sample UI Test Case</h4>
+  
+</figcaption>
+
+</figure>
+
+
+<p>With all the pieces (controls, mechanical, UI) figured out, we finally pieced the prototype together for delivery to the client. This particular project was a great experience in negotiating needs/requirements across a cross-functional team (industrial design, mechanical engineering, and controls engineering). The final prototype was a beautiful <i>and functional</i> testament to everyone&rsquo;s hard work and collaboration!</p>
+
+
+
+
+
+
+
+<figure>
+
+<img src="lookslikeworkslike.png" >
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Final Prototype</h4>
+  
+</figcaption>
+
+</figure>
+
 
     </div>
 
@@ -575,7 +705,7 @@
     <div class="media-body">
       <h5 class="card-title" itemprop="name"><a href="/">Siddharth Kurwa</a></h5>
       <h6 class="card-subtitle">Mechanical Engineer</h6>
-      <p class="card-text" itemprop="description">Siddharth Kurwa is an engineer with a passion for sharing, exploring, and executing new ideas and technology.</p>
+      <p class="card-text" itemprop="description">Passionate about learning, sharing, and creating new ideas and technology.</p>
       <ul class="network-icon" aria-hidden="true">
         
           
