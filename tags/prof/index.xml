@@ -17,7 +17,7 @@
       <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/pitchingmachine/</guid>
-      <description>&lt;p&gt;With a team of 2 other engineers, I helped develop a pitching machine for a M3 Design client. We began with an &lt;a href=&#34;http://www.athlonic.com/products/wheelerdealer&#34; target=&#34;_blank&#34;&gt;off-the-shelf product&lt;/a&gt; as the foundation and added or modified features until we developed all the functionality required.&lt;/p&gt;
+      <description>&lt;p&gt;As an intern at M3 Design, I helped develop a pitching machine for a client. We began with an &lt;a href=&#34;http://www.athlonic.com/products/wheelerdealer&#34; target=&#34;_blank&#34;&gt;off-the-shelf product&lt;/a&gt; as the foundation and added or modified features until we developed all the functionality required.&lt;/p&gt;
 
 &lt;p&gt;While my co-worker designed and fabricated a 2 degree-of-freedom (DOF) mechanism to enable a controllable pitching window, I focused on developing pitching control. For this, I started by characterizing the existing pitching machine which used a linear solenoid (a device that creates a magnetic field to exert a linear force on a plunger) to pitch the ball.&lt;/p&gt;
 

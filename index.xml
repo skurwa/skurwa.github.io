@@ -17,7 +17,11 @@
       <pubDate>Fri, 12 Jul 2019 00:00:00 -0700</pubDate>
       
       <guid>/project/jainmentorshipprogram/</guid>
-      <description>&lt;p&gt;This page is still in development - please see my &lt;a href=&#34;/files/SiddharthKurwa_Portfolio.pdf&#34;&gt;portfolio&lt;/a&gt; in the meantime. Stay tuned for updates soon!&lt;/p&gt;
+      <description>&lt;p&gt;As 3rd year undergraduate students in 2017, my friend, Mishi, and I reflected on how we&amp;rsquo;d evolved from the people we were in high school. Our high school selves were naive, and we were fortunate to have received the necessary guidance to reach our present situations. At that moment, we felt a call to action to pass the torch forward by offering mentorship to high schoolers. We were part of a local Jain youth community - a perfect place to begin testing the waters for a high school mentorship program.&lt;/p&gt;
+
+&lt;p&gt;We designed a program to pair high school juniors and seniors who are in the thick of college preparation and admissions with college mentors. These mentors were tasked to challenge them to consider important steps and nudge them forward through monthly check-ins. Mishi and I prepared relevant and varying content for mentors to use in their discussions with mentees. Content themes included college research, selecting majors, resume editing, scholarship apps, and essay writing. Mishi and I also developed webinars, social events, and workshops to provide a broader variety of programming to meet needs of mentees. Many of the new features we began implementing in the program were conceived through feedback forms. From the program initiation, we emphasized constant mentee and mentor feedback. This feedback has enabled the program to meet user needs and desires that Mishi and I had not initially identified.&lt;/p&gt;
+
+&lt;p&gt;In the past two years, we&amp;rsquo;ve connected over 30 high schoolers with college mentors and received overwhelming appreciation from mentees and mentors for developing this platform. With the 3rd year officically under way in 2019, the Jain Mentorship Program has a team of 4 coordinators and a handful of advisors to plan workshops, webinars, social events, monthly mentorship programming, and the future growth and sustenance of the program on a national level.&lt;/p&gt;
 </description>
     </item>
     
@@ -57,7 +61,7 @@
       <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/pitchingmachine/</guid>
-      <description>&lt;p&gt;With a team of 2 other engineers, I helped develop a pitching machine for a M3 Design client. We began with an &lt;a href=&#34;http://www.athlonic.com/products/wheelerdealer&#34; target=&#34;_blank&#34;&gt;off-the-shelf product&lt;/a&gt; as the foundation and added or modified features until we developed all the functionality required.&lt;/p&gt;
+      <description>&lt;p&gt;As an intern at M3 Design, I helped develop a pitching machine for a client. We began with an &lt;a href=&#34;http://www.athlonic.com/products/wheelerdealer&#34; target=&#34;_blank&#34;&gt;off-the-shelf product&lt;/a&gt; as the foundation and added or modified features until we developed all the functionality required.&lt;/p&gt;
 
 &lt;p&gt;While my co-worker designed and fabricated a 2 degree-of-freedom (DOF) mechanism to enable a controllable pitching window, I focused on developing pitching control. For this, I started by characterizing the existing pitching machine which used a linear solenoid (a device that creates a magnetic field to exert a linear force on a plunger) to pitch the ball.&lt;/p&gt;
 
